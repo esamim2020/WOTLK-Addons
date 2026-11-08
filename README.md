@@ -1,6 +1,8 @@
 # GGRaid - World of Warcraft 3.3.5a LFM & Spam Addon
 
 **GGRaid** is a lightweight and powerful World of Warcraft addon designed specifically for 3.3.5a private servers. It automates your Looking For More (LFM) raid recruitment by generating structured messages and automatically broadcasting them via Yell (`/yell`) and custom channels (like Global) at custom intervals.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89a78682-753e-4d7d-a57b-bfd18054c0c4" />
+
 
 ---
 
